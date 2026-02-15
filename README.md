@@ -2,6 +2,8 @@
 
 A simple Bash CLI tool that compresses log files from a specified directory into a `.tar.gz` archive and logs the archive date and time.
 
+https://roadmap.sh/projects/log-archive-tool
+
 ## Project URL
 
 https://github.com/Arch-Official02/log-archive-cli
